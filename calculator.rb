@@ -1,5 +1,5 @@
 # Add your variables here
-first_number = 1
+def first_number = 1
 puts first_number
-second_number = 2 
+def second_number = 2 
 puts second_number

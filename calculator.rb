@@ -1,3 +1,3 @@
 # Add your variables here
-def first_number = 1;
-puts first_number
+def first_number 
+puts first_number = 1
